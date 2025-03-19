@@ -1,4 +1,4 @@
-PeacePortal - A Mental Health Awareness Platform
+SUKOON - A Mental Health Awareness Platform
 
 "PeacePortal" is a comprehensive full-stack web platform dedicated to raising awareness and providing valuable resources on mental health disorders. The name "PeacePortal" symbolizes a gateway to tranquility and well-being, emphasizing the importance of mental health in leading a fulfilling life.
 
